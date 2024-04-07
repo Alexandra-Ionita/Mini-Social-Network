@@ -1,6 +1,4 @@
 #### Name: Ioniță Alexandra-Mihaela
-#### Group: 324CB
-#### Email: alexandra.ionita03@stud.upb.acs.ro
 #### Personal Email: alexandraionita901@gmail.com
 
 # Mini Social Network
@@ -87,7 +85,7 @@ first 5 users
 - clean-up: I clear all the users, posts and comments lists and set the post 
 id and comment id to 1 again
 
-### For the bonus:
+### To Add:
 - I would add a login command and a logout command, so it would not be 
 necessary to provide the username and password for each command. It would be 
 like -login -u username -p password, and have errors for wrong username, 
